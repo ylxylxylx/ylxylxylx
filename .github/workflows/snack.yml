@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "*/10080 * * * *"
+    - cron: "0 0 * * 1"
 
 
 jobs:
